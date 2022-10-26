@@ -5,4 +5,5 @@ Timed single or two player ice fishing game. Catch fish to earn points, and avoi
 
 Download the .jar file for a playable game
 
-![alt text](https://github.com/missionStrawberry/Ice_Fishing_Game/blob/main/banner.png?raw=true)
+![banner/cover image of game](https://github.com/missionStrawberry/Ice_Fishing_Game/blob/main/banner.png?raw=true)
+![gameplay](https://github.com/missionStrawberry/Ice_Fishing_Game/blob/main/Screenshot%20(9).png?raw=true)
